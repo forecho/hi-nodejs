@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "Bower/bower_components/bootstrap/package.json",
+        "Bower/public/components/bootstrap/package.json",
+        "GruntJS/package.json"
+      ]
+    }
+  }
+}
